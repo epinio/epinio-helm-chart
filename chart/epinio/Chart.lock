@@ -1,15 +1,15 @@
 dependencies:
 - name: dex
   repository: https://charts.dexidp.io
-  version: 0.15.2
+  version: 0.16.0
 - name: minio
   repository: https://charts.min.io/
-  version: 5.0.13
+  version: 5.1.0
 - name: kubed
   repository: https://charts.appscode.com/stable/
   version: v0.13.2
 - name: s3gw
   repository: https://aquarist-labs.github.io/s3gw-charts
-  version: 0.14.0
-digest: sha256:7b80527ba85ac4c5a5eaf9c69bc9802b3d70fba4ac64fe6677db13778e7909c3
-generated: "2023-07-25T10:32:27.725169768+02:00"
+  version: 0.23.0
+digest: sha256:224bb48e44c208ceb4aa759a922aaf5df0f674ed0009366813758b4593ee838b
+generated: "2024-03-03T19:00:31.73833973Z"
